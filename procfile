@@ -1,1 +1,1 @@
-worker: python dojocoin.py
+worker: python3 dojocoin.py
